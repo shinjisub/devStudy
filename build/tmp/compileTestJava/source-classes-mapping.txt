@@ -1,0 +1,2 @@
+com/dev/study/repository/MemberEmRepositoryTest.java
+ com.dev.study.repository.MemberEmRepositoryTest
