@@ -8,6 +8,7 @@ public class HomeController {
 
     @GetMapping("/")
     public long homeMain() {
+        System.out.println(System.currentTimeMillis());
         return System.currentTimeMillis();
     }
 }
